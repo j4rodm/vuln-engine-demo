@@ -7,6 +7,8 @@ Prerequisites:
     * Vulnerability Response
     * Security Incident Response
 
+Upload/Preview/Commit update set: Demo_Vulnerability_Integration_Engine_1.1.xml
+
 Once installed:
   Review the options under the "Vuln Integration Engine (K18)" application
   
